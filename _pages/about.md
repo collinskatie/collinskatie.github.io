@@ -13,4 +13,4 @@ I'm a [2021 Marshall Scholar](https://www.marshallscholarship.org/) and MPhil st
 I am also passionate about bringing diverse voices to the table in AI and founded the [MITxHarvard Women in AI Group](https://mitharvardwai.github.io/). Likewise, I am keen to contribute to conversations around the implications of AI and served on the [Dean's Action Group for the Societal and Ethical Responsibilities of Computing](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/) (SERC) through the MIT Schwarzmann College of Computing.
 
 
-[Website template from 
+Website template modified from [academicpages](https://github.com/academicpages/academicpages.github.io)
