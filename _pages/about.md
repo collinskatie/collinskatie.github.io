@@ -16,6 +16,6 @@ Before that, I had the incredible opportunity to work at the intersection of mac
 
 I am also passionate about bringing more diverse voices to the table in AI and founded the [MITxHarvard Women in AI Group](https://mitharvardwai.github.io/). Likewise, I am keen to contribute to conversations around the implications of AI and helped develop new curricular materials for MIT's undergraduate machine learning courses as part of the MIT Case Studies in [Societal and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/).
 
-Outside of research, I love to run! I [ran competitively](https://mitathletics.com/sports/womens-track-and-field/roster/katie-collins/9917) while at MIT. 
+Outside of research, I love to run and used to run competitively for MIT.  
 
 Website template modified from [academicpages](https://github.com/academicpages/academicpages.github.io)
