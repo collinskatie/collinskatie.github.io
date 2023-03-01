@@ -12,11 +12,11 @@ Hi, I'm Katie! I'm a Machine Learning PhD candidate in the [Computational and Bi
 
 I'm particularly excited about scalable trustworthy machine learning, probabilistic modeling, and data-efficient human-machine teaming. I maintain a keen interest in computational cognitive science, stemming from my undergraduate research with [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (with whom I happily enjoy continue collaborating!).
 
-I recently completed an MPhil in Machine Learning and Machine Intelligence from the University of Cambridge and obtained a Bachelors of Science from MIT in 2021 in Brain and Cognitive Sciences, with minors in Computer Science and Biomedical Engineering. I am also passionate about bringing more diverse voices to the table in AI and founded the [MITxHarvard Women in AI Group](https://mitharvardwai.github.io/). Likewise, I am keen to contribute to conversations around the implications of AI and helped develop new curricular materials for MIT's undergraduate machine learning courses as part of the MIT Case Studies in [Societal and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/). I also recently co-organized the [2022 ICML Workshop on Human-Machine Collaboration and Teaming (HMCaT)](https://sites.google.com/view/icml-2022-hmcat/home).
+I recently completed an MPhil in Machine Learning and Machine Intelligence from the University of Cambridge and obtained a Bachelors of Science from MIT in 2021 in Brain and Cognitive Sciences, with minors in Computer Science and Biomedical Engineering. During my undergrad, I founded the [MITxHarvard Women in AI Group](https://mitharvardwai.github.io/) in an effort to bringing more diverse voices to the table in AI! 
 
 Outside of research, I love to run (!) and used to run competitively for MIT.  
 
-## Papers
+## Papers
 
 Listing under construction!
 
