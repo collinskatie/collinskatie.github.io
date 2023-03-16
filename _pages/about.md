@@ -22,18 +22,46 @@ You can find the most up-to-date listing on [Google Scholar profile](https://sch
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
-Sucholutsky, Bradley Love, and Adrian Weller (2023)
-Under submission. Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track.
-[Code and Data; forthcoming](https://github.com/cambridge-mlg/hill-mixup) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
+Sucholutsky, Bradley Love, and Adrian Weller.
+Under submission (2023). Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).
+[Code and Data](https://github.com/cambridge-mlg/hill-mixup)(forthcoming) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
 
 [Harms from Increasingly Agentic Systems](https://arxiv.org/pdf/2302.10329.pdf)
-Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, <strong>Katherine M. Collins</strong>, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, Umang Bhatt, Adrian Weller, David Krueger, Tegan Maharaj (2023)
-Under submission.
+Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, <strong>Katherine M. Collins</strong>, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, Umang Bhatt, Adrian Weller, David Krueger, Tegan Maharaj. 
+Under submission (2023).
 
 [Eliciting and learning with soft labels from every annotator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:eQOLeE2rZwMC)
-**Katherine M Collins***, Umang Bhatt*, Adrian Weller (2022)
-AAAI HCOMP. 
+**Katherine M Collins***, Umang Bhatt*, Adrian Weller. 
+AAAI HCOMP (2022). 
 [Code and Data](https://github.com/cambridge-mlg/cifar-10s) [Project Page](https://sites.google.com/view/eliciting-individ-soft-labels) 
+
+[Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks](https://arxiv.org/pdf/2205.05718.pdf)
+**Katherine M. Collins***, Lionel Wong*, Jiahai Feng, Megan Wei, and Joshua B. Tenenbaum. 
+CogSci (2022). Invited Talk.
+[Code and Data](https://github.com/collinskatie/structured_flexible_and_robust) [Project Page](https://sites.google.com/view/structured-flexible-and-robust/home) [Turing Institute Talk](https://www.youtube.com/watch?v=1RgFz_Yzskk&list=PLuD_SqLtxSdULrQ37je1jaAe7pvlDwCrf&index=2)
+
+[Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:LkGwnXOMwfcC)
+Tuan Anh Le, **Katherine M Collins**, Luke Hewitt, Kevin Ellis, Samuel J Gershman, Joshua B Tenenbaum.
+ICLR (2022).
+[Code](https://github.com/tuananhle7/hmws)
+
+[Learning signal-agnostic manifolds of neural fields](https://proceedings.neurips.cc/paper/2021/file/4639475d6782a08c1e964f9a4329a254-Paper.pdf)
+Yilun Du, **Katherine M. Collins**, Joshua B. Tenenbaum, Vincent Sitzmann.
+NeurIPS (2020).
+[Code](https://github.com/yilundu/gem/) [Project Page](https://yilundu.github.io/gem/)
+
+[Deep representation learning improves prediction of LacI-mediated transcriptional repression](https://www.pnas.org/doi/full/10.1073/pnas.2022838118)
+Alexander S Garruss, **Katherine M Collins**, George M Church.
+PNAS (2020).
+
+[Sequence-to-function deep learning frameworks for engineered riboregulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:d1gkVwhDpl0C)
+Jacqueline A Valeri*, **Katherine M Collins***, Pradeep Ramesh*, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.
+Nature Communications (2020).
+[Code](https://github.com/jackievaleri/engineered-riboregulator-ML)
+
+[Next-generation machine learning for biological networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
+Diogo M Camacho, **Katherine M Collins**, Rani K Powers, James C Costello, James J Collins.
+Cell (2018).
 
 *Contributed equally
 
