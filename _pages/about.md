@@ -55,7 +55,7 @@ Alexander S Garruss, **Katherine M Collins**, George M Church.<br />
 PNAS (2020).
 
 [Sequence-to-function deep learning frameworks for engineered riboregulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:d1gkVwhDpl0C)<br />
-Jacqueline A Valeri^, **Katherine M Collins^**, Pradeep Ramesh*, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.<br />
+Jacqueline A Valeri^, **Katherine M Collins^**, Pradeep Ramesh^, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.<br />
 Nature Communications (2020).<br />
 [Code](https://github.com/jackievaleri/engineered-riboregulator-ML)
 
