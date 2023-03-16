@@ -31,12 +31,12 @@ Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmi
 Under submission (2023).
 
 [Eliciting and learning with soft labels from every annotator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:eQOLeE2rZwMC)<br />
-**Katherine M Collins***, Umang Bhatt*, Adrian Weller. <br />
+**Katherine M Collins^**, Umang Bhatt^, Adrian Weller. <br />
 AAAI HCOMP (2022). <br />
 [Code and Data](https://github.com/cambridge-mlg/cifar-10s) [Project Page](https://sites.google.com/view/eliciting-individ-soft-labels) 
 
 [Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks](https://arxiv.org/pdf/2205.05718.pdf)<br />
-**Katherine M. Collins***, Lionel Wong*, Jiahai Feng, Megan Wei, and Joshua B. Tenenbaum. <br />
+**Katherine M. Collins^**, Lionel Wong^, Jiahai Feng, Megan Wei, and Joshua B. Tenenbaum. <br />
 CogSci (2022). Invited Talk.<br />
 [Code and Data](https://github.com/collinskatie/structured_flexible_and_robust) [Project Page](https://sites.google.com/view/structured-flexible-and-robust/home) [Turing Institute Talk](https://www.youtube.com/watch?v=1RgFz_Yzskk&list=PLuD_SqLtxSdULrQ37je1jaAe7pvlDwCrf&index=2)
 
@@ -55,7 +55,7 @@ Alexander S Garruss, **Katherine M Collins**, George M Church.<br />
 PNAS (2020).
 
 [Sequence-to-function deep learning frameworks for engineered riboregulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:d1gkVwhDpl0C)<br />
-Jacqueline A Valeri*, **Katherine M Collins***, Pradeep Ramesh*, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.<br />
+Jacqueline A Valeri^, **Katherine M Collins^**, Pradeep Ramesh*, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.<br />
 Nature Communications (2020).<br />
 [Code](https://github.com/jackievaleri/engineered-riboregulator-ML)
 
@@ -63,6 +63,6 @@ Nature Communications (2020).<br />
 Diogo M Camacho, **Katherine M Collins**, Rani K Powers, James C Costello, James J Collins.<br />
 Cell (2018).
 
-*Contributed equally
+^Contributed equally
 
 Website template modified from [academicpages](https://github.com/academicpages/academicpages.github.io)
