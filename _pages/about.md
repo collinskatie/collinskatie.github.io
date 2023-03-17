@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Katie! I'm a Machine Learning PhD candidate in the [Computational and Biological Learning (CBL) Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge, where I am supervised by [Adrian Weller MBE](http://mlg.eng.cam.ac.uk/adrian/) and advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/WebHome). I am also a Student Fellow at the [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/) and volunteer with the [Human-Oriented Automated Theorem Proving](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/), led by [Sir Tim Gowers](https://www.dpmms.cam.ac.uk/~wtg10/). I am grateful to the [Marshall Scholarship](https://www.marshallscholarship.org/), King's College, and the Cambridge Trust for additional funding support for my studies.
+Hi, I'm Katie! I'm a Machine Learning PhD candidate in the [Computational and Biological Learning (CBL) Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge, where I am supervised by [Adrian Weller MBE](http://mlg.eng.cam.ac.uk/adrian/) and advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/WebHome), and am a part-time Student Researcher at [Google Brain](https://research.google/) working with [Krishnamurthy (Dj) Dvijotham](https://dj-research.netlify.app/). I am also a Student Fellow at the [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/) and volunteer with the [Human-Oriented Automated Theorem Proving](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/), led by [Sir Tim Gowers](https://www.dpmms.cam.ac.uk/~wtg10/). I am grateful to the [Marshall Scholarship](https://www.marshallscholarship.org/), King's College, and the Cambridge Trust for additional funding support for my studies.
 
 I'm particularly excited about scalable trustworthy machine learning, probabilistic modeling, and data-efficient human-machine teaming. I maintain a keen interest in computational cognitive science, stemming from my undergraduate research with [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (with whom I happily enjoy continue collaborating!).
 
@@ -59,7 +59,7 @@ Jacqueline A Valeri^, **Katherine M Collins^**, Pradeep Ramesh^, Miguel A Alcant
 Nature Communications (2020).<br />
 [Code](https://github.com/jackievaleri/engineered-riboregulator-ML)
 
-[Next-generation machine learning for biological networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
+[Next-generation machine learning for biological networks](https://www.sciencedirect.com/science/article/pii/S0092867418305920)<br />
 Diogo M Camacho, **Katherine M Collins**, Rani K Powers, James C Costello, James J Collins.<br />
 Cell (2018).
 
