@@ -43,7 +43,7 @@ AAAI HCOMP (2022). <br />
 
 [Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks](https://arxiv.org/pdf/2205.05718.pdf)<br />
 **Katherine M. Collins^**, Lionel Wong^, Jiahai Feng, Megan Wei, and Joshua B. Tenenbaum. <br />
-CogSci (2022). Invited Talk.<br />
+CogSci (2022). Invited Talk. Awarded Travel Grant for Paper. <br />
 [Code and Data](https://github.com/collinskatie/structured_flexible_and_robust) [Project Page](https://sites.google.com/view/structured-flexible-and-robust/home) [Turing Institute Talk](https://www.youtube.com/watch?v=1RgFz_Yzskk&list=PLuD_SqLtxSdULrQ37je1jaAe7pvlDwCrf&index=2)
 
 [Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:LkGwnXOMwfcC)<br />
