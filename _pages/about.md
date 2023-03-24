@@ -22,8 +22,8 @@ You can find the most up-to-date listing on [Google Scholar profile](https://sch
 
 [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/abs/2303.12872)<br />
 **Katherine M. Collins**, Matthew Barker^, Mateo Espinosa Zarlenga^, Naveen Raman^, Umang Bhatt, Mateja Jamnik, Ilia
-Sucholutsky, Adrian Weller and Krishnamurthy (Dj) Dvijotham.<br />
-Under submission (2023).
+Sucholutsky, Adrian Weller, and Krishnamurthy (Dj) Dvijotham.<br />
+Under submission (2023).<br />
 [Code and Data](https://github.com/collinskatie/uncertainty-concepts) (forthcoming)
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
