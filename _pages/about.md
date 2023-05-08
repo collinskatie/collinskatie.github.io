@@ -23,18 +23,18 @@ You can find the most up-to-date listing on [Google Scholar profile](https://sch
 [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/abs/2303.12872)<br />
 **Katherine M. Collins**, Matthew Barker^, Mateo Espinosa Zarlenga^, Naveen Raman^, Umang Bhatt, Mateja Jamnik, Ilia
 Sucholutsky, Adrian Weller, and Krishnamurthy (Dj) Dvijotham.<br />
-Under submission (2023).<br />
+Forthcoming: acepted to AIES (2023).<br />
 [Code and Data](https://github.com/collinskatie/uncertainty-concepts) (forthcoming)
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
 Sucholutsky, Bradley Love, and Adrian Weller.<br />
-Under submission (2023). Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
+Forthcoming: accepted to UAI (2023). Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
 [Code and Data](https://github.com/cambridge-mlg/hill-mixup) (forthcoming) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
 
 [Harms from Increasingly Agentic Systems](https://arxiv.org/pdf/2302.10329.pdf)<br />
 Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, <strong>Katherine M. Collins</strong>, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, Umang Bhatt, Adrian Weller, David Krueger, Tegan Maharaj. <br />
-Under submission (2023).
+Forthcoming: accepted to FAccT (2023).
 
 [Eliciting and learning with soft labels from every annotator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:eQOLeE2rZwMC)<br />
 **Katherine M Collins^**, Umang Bhatt^, Adrian Weller. <br />
