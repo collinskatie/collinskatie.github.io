@@ -24,12 +24,12 @@ You can find the most up-to-date listing on [Google Scholar profile](https://sch
 **Katherine M. Collins**, Matthew Barker^, Mateo Espinosa Zarlenga^, Naveen Raman^, Umang Bhatt, Mateja Jamnik, Ilia
 Sucholutsky, Adrian Weller, and Krishnamurthy (Dj) Dvijotham.<br />
 Forthcoming: acepted to AIES (2023).<br />
-[Code and Data](https://github.com/collinskatie/uncertainty-concepts) (forthcoming)
+[CUB-S Data](https://github.com/collinskatie/cub-s) [Project Page](https://sites.google.com/view/human-concept-uncertainty?usp=sharing)
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
 Sucholutsky, Bradley Love, and Adrian Weller.<br />
-Forthcoming: accepted to UAI (2023). Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
+Forthcoming: accepted to UAI (2023) and selected for an Oral presentation! Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
 [Code and Data](https://github.com/cambridge-mlg/hill-mixup) (forthcoming) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
 
 [Harms from Increasingly Agentic Systems](https://arxiv.org/pdf/2302.10329.pdf)<br />
