@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Katie! I'm a Machine Learning PhD candidate in the [Computational and Biological Learning (CBL) Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge, where I am supervised by [Adrian Weller MBE](http://mlg.eng.cam.ac.uk/adrian/) and advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/WebHome), and am a part-time Student Researcher at [Google Brain](https://research.google/) with [Krishnamurthy (Dj) Dvijotham](https://dj-research.netlify.app/) and [Miltos Allamanis](https://miltos.allamanis.com/). I am also a Student Fellow at the [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/) and volunteer with the [Human-Oriented Automated Theorem Proving](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/), led by [Sir Tim Gowers](https://www.dpmms.cam.ac.uk/~wtg10/). I am grateful to the [Marshall Scholarship](https://www.marshallscholarship.org/), King's College, and the Cambridge Trust for additional funding support for my studies.
+Hi, I'm Katie! I'm a Machine Learning PhD candidate in the [Computational and Biological Learning (CBL) Lab](http://learning.eng.cam.ac.uk/Public/) at the University of Cambridge, where I am supervised by [Adrian Weller MBE](http://mlg.eng.cam.ac.uk/adrian/) and advised by [Richard Turner](http://cbl.eng.cam.ac.uk/Public/Turner/WebHome), and am a part-time Student Researcher at [Google DeepMind](https://research.google/) with [Krishnamurthy (Dj) Dvijotham](https://dj-research.netlify.app/) and [Miltos Allamanis](https://miltos.allamanis.com/). I am also a Student Fellow at the [Leverhulme Centre for the Future of Intelligence (CFI)](http://lcfi.ac.uk/) and volunteer with the [Human-Oriented Automated Theorem Proving](https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/), led by [Sir Tim Gowers](https://www.dpmms.cam.ac.uk/~wtg10/). I am grateful to the [Marshall Scholarship](https://www.marshallscholarship.org/), King's College, and the Cambridge Trust for additional funding support for my studies.
 
 I'm particularly excited about **scalable trustworthy machine learning**, **probabilistic modeling**, and **data-efficient human-machine teaming**. I maintain a keen interest in **computational cognitive science**, stemming from my undergraduate research with [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (with whom I happily enjoy continuing to collaborate!).
 
@@ -20,21 +20,36 @@ Outside of research, I love to run (!) and used to run competitively for MIT.
 
 You can find the most up-to-date listing on [Google Scholar profile](https://scholar.google.com/citations?user=48ZphCEAAAAJ&hl=en).
 
+[Evaluating Language Models for Mathematics through Interactions](https://arxiv.org/abs/2306.01694)<br />
+**Katherine M. Collins^**, Albert Q. Jiang^, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller^^, and Mateja Jamnik^^.<br />
+Working Paper, arXiv (2023).<br />
+[CheckMate Interactive Eval Platform](https://github.com/collinskatie/checkmate) [MathConverse Data](https://github.com/collinskatie/checkmate/tree/main/data)
+
 [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/abs/2303.12872)<br />
 **Katherine M. Collins**, Matthew Barker^, Mateo Espinosa Zarlenga^, Naveen Raman^, Umang Bhatt, Mateja Jamnik, Ilia
 Sucholutsky, Adrian Weller, and Krishnamurthy (Dj) Dvijotham.<br />
-Forthcoming: acepted to AIES (2023).<br />
+AIES (2023).<br />
 [CUB-S Data](https://github.com/collinskatie/cub-s) [Project Page](https://sites.google.com/view/human-concept-uncertainty?usp=sharing)
+
+[On the Informativeness of Supervision Signals](https://arxiv.org/abs/2211.01407)<br />
+Ilia Sucholutsky, Ruairidh M. Battleday, **Katherine M. Collins**, Raja Marjieh, Joshua C. Peterson, Pulkit Singh, Umang Bhatt, Nori Jacoby, Adrian Weller, and Thomas L. Griffiths.<br />
+UAI (2023).<br />
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
 Sucholutsky, Bradley Love, and Adrian Weller.<br />
-Forthcoming: accepted to UAI (2023) and selected for an Oral presentation! Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
-[Code and Data](https://github.com/cambridge-mlg/hill-mixup) (forthcoming) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
+UAI (2023) and selected for an Oral presentation! Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
+[H-Mix Data and HILL MixE Suite Code](https://github.com/cambridge-mlg/hill-mixup) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
+
+
+[BioAutoMATED: An end-to-end automated machine learning tool for explanation and design of biological sequences](https://www.sciencedirect.com/science/article/pii/S2405471223001515)<br />
+Jacqueline A. Valeri^, Luis R. Soenksen^, **Katherine M. Collins^**, Pradeep Ramesh, George Cai, Rani Powers, Nicolaas M. Angenent-Mari, Diogo M. Camacho, Felix Wong, Timothy K. Lu, and James J. Collins<br />
+Cell Systems (2023).<br />
+[BioAutoMATED Platform](https://github.com/jackievaleri/BioAutoMATED)
 
 [Harms from Increasingly Agentic Systems](https://arxiv.org/pdf/2302.10329.pdf)<br />
 Alan Chan, Rebecca Salganik, Alva Markelius, Chris Pang, Nitarshan Rajkumar, Dmitrii Krasheninnikov, Lauro Langosco, Zhonghao He, Yawen Duan, Micah Carroll, Michelle Lin, Alex Mayhew, <strong>Katherine M. Collins</strong>, Maryam Molamohammadi, John Burden, Wanru Zhao, Shalaleh Rismani, Konstantinos Voudouris, Umang Bhatt, Adrian Weller, David Krueger, Tegan Maharaj. <br />
-Forthcoming: accepted to FAccT (2023).
+FAccT (2023).
 
 [Eliciting and learning with soft labels from every annotator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:eQOLeE2rZwMC)<br />
 **Katherine M Collins^**, Umang Bhatt^, Adrian Weller. <br />
@@ -53,12 +68,12 @@ ICLR (2022).<br />
 
 [Learning signal-agnostic manifolds of neural fields](https://proceedings.neurips.cc/paper/2021/file/4639475d6782a08c1e964f9a4329a254-Paper.pdf)<br />
 Yilun Du, **Katherine M. Collins**, Joshua B. Tenenbaum, Vincent Sitzmann.<br />
-NeurIPS (2020).<br />
+NeurIPS (2021).<br />
 [Code](https://github.com/yilundu/gem/) [Project Page](https://yilundu.github.io/gem/)
 
 [Deep representation learning improves prediction of LacI-mediated transcriptional repression](https://www.pnas.org/doi/full/10.1073/pnas.2022838118)<br />
 Alexander S Garruss, **Katherine M Collins**, George M Church.<br />
-PNAS (2020).
+PNAS (2021).
 
 [Sequence-to-function deep learning frameworks for engineered riboregulators](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:d1gkVwhDpl0C)<br />
 Jacqueline A Valeri^, **Katherine M Collins^**, Pradeep Ramesh^, Miguel A Alcantar, Bianca A Lepe, Timothy K Lu, Diogo M Camacho.<br />
@@ -69,6 +84,7 @@ Nature Communications (2020).<br />
 Diogo M Camacho, **Katherine M Collins**, Rani K Powers, James C Costello, James J Collins.<br />
 Cell (2018).
 
-^Contributed equally
+^Contributed equally.
+^^Equal co-supervision.
 
 Website template modified from [academicpages](https://github.com/academicpages/academicpages.github.io)
