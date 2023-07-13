@@ -21,29 +21,29 @@ Outside of research, I love to run (!) and used to run competitively for MIT.
 You can find the most up-to-date listing on [Google Scholar profile](https://scholar.google.com/citations?user=48ZphCEAAAAJ&hl=en).
 
 [Evaluating Language Models for Mathematics through Interactions](https://arxiv.org/abs/2306.01694)<br />
-**Katherine M. Collins^**, Albert Q. Jiang^, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller^^, and Mateja Jamnik^^.<br />
+**Katherine M. Collins^**, Albert Q. Jiang^, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller^^, Mateja Jamnik^^.<br />
 Working Paper, arXiv (2023).<br />
 [CheckMate Interactive Eval Platform](https://github.com/collinskatie/checkmate) [MathConverse Data](https://github.com/collinskatie/checkmate/tree/main/data)
 
 [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/abs/2303.12872)<br />
 **Katherine M. Collins**, Matthew Barker^, Mateo Espinosa Zarlenga^, Naveen Raman^, Umang Bhatt, Mateja Jamnik, Ilia
-Sucholutsky, Adrian Weller, and Krishnamurthy (Dj) Dvijotham.<br />
+Sucholutsky, Adrian Weller, Krishnamurthy (Dj) Dvijotham.<br />
 AIES (2023).<br />
 [CUB-S Data](https://github.com/collinskatie/cub-s) [Project Page](https://sites.google.com/view/human-concept-uncertainty?usp=sharing)
 
 [On the Informativeness of Supervision Signals](https://arxiv.org/abs/2211.01407)<br />
-Ilia Sucholutsky, Ruairidh M. Battleday, **Katherine M. Collins**, Raja Marjieh, Joshua C. Peterson, Pulkit Singh, Umang Bhatt, Nori Jacoby, Adrian Weller, and Thomas L. Griffiths.<br />
+Ilia Sucholutsky, Ruairidh M. Battleday, **Katherine M. Collins**, Raja Marjieh, Joshua C. Peterson, Pulkit Singh, Umang Bhatt, Nori Jacoby, Adrian Weller, Thomas L. Griffiths.<br />
 UAI (2023).<br />
 
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
-Sucholutsky, Bradley Love, and Adrian Weller.<br />
+Sucholutsky, Bradley Love, Adrian Weller.<br />
 UAI (2023) and selected for an Oral presentation! Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
 [H-Mix Data and HILL MixE Suite Code](https://github.com/cambridge-mlg/hill-mixup) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
 
 
 [BioAutoMATED: An end-to-end automated machine learning tool for explanation and design of biological sequences](https://www.sciencedirect.com/science/article/pii/S2405471223001515)<br />
-Jacqueline A. Valeri^, Luis R. Soenksen^, **Katherine M. Collins^**, Pradeep Ramesh, George Cai, Rani Powers, Nicolaas M. Angenent-Mari, Diogo M. Camacho, Felix Wong, Timothy K. Lu, and James J. Collins<br />
+Jacqueline A. Valeri^, Luis R. Soenksen^, **Katherine M. Collins^**, Pradeep Ramesh, George Cai, Rani Powers, Nicolaas M. Angenent-Mari, Diogo M. Camacho, Felix Wong, Timothy K. Lu, James J. Collins<br />
 Cell Systems (2023).<br />
 [BioAutoMATED Platform](https://github.com/jackievaleri/BioAutoMATED)
 
@@ -57,7 +57,7 @@ AAAI HCOMP (2022). <br />
 [Code and Data](https://github.com/cambridge-mlg/cifar-10s) [Project Page](https://sites.google.com/view/eliciting-individ-soft-labels) 
 
 [Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks](https://arxiv.org/pdf/2205.05718.pdf)<br />
-**Katherine M. Collins^**, Lionel Wong^, Jiahai Feng, Megan Wei, and Joshua B. Tenenbaum. <br />
+**Katherine M. Collins^**, Lionel Wong^, Jiahai Feng, Megan Wei, Joshua B. Tenenbaum. <br />
 CogSci (2022). Invited Talk. Awarded Travel Grant for Paper. <br />
 [Code and Data](https://github.com/collinskatie/structured_flexible_and_robust) [Project Page](https://sites.google.com/view/structured-flexible-and-robust/home) [Turing Institute Talk](https://www.youtube.com/watch?v=1RgFz_Yzskk&list=PLuD_SqLtxSdULrQ37je1jaAe7pvlDwCrf&index=2)
 
