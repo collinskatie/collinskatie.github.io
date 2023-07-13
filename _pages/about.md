@@ -31,16 +31,15 @@ Sucholutsky, Adrian Weller, Krishnamurthy (Dj) Dvijotham.<br />
 AIES (2023).<br />
 [CUB-S Data](https://github.com/collinskatie/cub-s) [Project Page](https://sites.google.com/view/human-concept-uncertainty?usp=sharing)
 
-[On the Informativeness of Supervision Signals](https://arxiv.org/abs/2211.01407)<br />
-Ilia Sucholutsky, Ruairidh M. Battleday, **Katherine M. Collins**, Raja Marjieh, Joshua C. Peterson, Pulkit Singh, Umang Bhatt, Nori Jacoby, Adrian Weller, Thomas L. Griffiths.<br />
-UAI (2023).<br />
-
 [Human-in-the-Loop Mixup](https://arxiv.org/pdf/2211.01202.pdf)<br />
 **Katherine M. Collins**, Umang Bhatt, Weiyang Liu, Vihari Piratla, Ilia
 Sucholutsky, Bradley Love, Adrian Weller.<br />
 UAI (2023) and selected for an Oral presentation! Earlier version at AAAI Workshop R^2HCAI and Best Demo/Poster at HCOMP Demo Track (2022).<br />
 [H-Mix Data and HILL MixE Suite Code](https://github.com/cambridge-mlg/hill-mixup) [Video](https://www.youtube.com/watch?v=rMIqSeGXPTI)
 
+[On the Informativeness of Supervision Signals](https://arxiv.org/abs/2211.01407)<br />
+Ilia Sucholutsky, Ruairidh M. Battleday, **Katherine M. Collins**, Raja Marjieh, Joshua C. Peterson, Pulkit Singh, Umang Bhatt, Nori Jacoby, Adrian Weller, Thomas L. Griffiths.<br />
+UAI (2023).<br />
 
 [BioAutoMATED: An end-to-end automated machine learning tool for explanation and design of biological sequences](https://www.sciencedirect.com/science/article/pii/S2405471223001515)<br />
 Jacqueline A. Valeri^, Luis R. Soenksen^, **Katherine M. Collins^**, Pradeep Ramesh, George Cai, Rani Powers, Nicolaas M. Angenent-Mari, Diogo M. Camacho, Felix Wong, Timothy K. Lu, James J. Collins<br />
