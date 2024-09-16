@@ -20,7 +20,7 @@ Outside of research, I love to run (!) and used to run competitively for MIT.
 
 You can find the most up-to-date listing on [Google Scholar profile](https://scholar.google.com/citations?user=48ZphCEAAAAJ&hl=en).
 
-[Building Machines that Learn and Think _with_ People](https://arxiv.org/abs/1604.00289)
+[Building Machines that Learn and Think _with_ People](https://arxiv.org/abs/2408.03943)
 **Katherine M. Collins***, Ilia Sucholutsky*, Umang Bhatt*, Kartik Chandra*, Lionel Wong*, Mina Lee**, Cedegao E. Zhang**, Tan Zhi-Xuan**, Mark Ho**, Vikash Mansinghka^, Adrian Weller^, Joshua B. Tenenbaum^, Thomas L. Griffiths^.<br />
 Pre-print, under review (2024).<br />
 
