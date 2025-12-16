@@ -22,11 +22,23 @@ Outside of research, I love to run (!) and used to run competitively for MIT.
 
 You can find the most up-to-date listing on [Google Scholar profile](https://scholar.google.com/citations?user=48ZphCEAAAAJ&hl=en).
 
-[People use fast, flat goal-directed simulation to reason about novel problems](https://arxiv.org/abs/2510.11503)
+[People use fast, flat goal-directed simulation to reason about novel problems](https://arxiv.org/abs/2510.11503)<br />
 **Katherine M. Collins**, Cedeago Zhang*, Lionel Wong*, Mauricio Barba*, Graham Todd*, Adrian Weller, Samuel Cheyette, Thomas L. Griffiths, Joshua B. Tenenbaum.<br />
 Pre-print, under review.<br />
 
-[Building Machines that Learn and Think _with_ People](https://www.nature.com/articles/s41562-024-01991-9)
+[Empathy in Explanation](https://arxiv.org/abs/2507.21081)<br />
+**Katherine M. Collins**, Kartik Chandra*, Adrian Weller, Jonathan Ragan-Kelley, Joshua B Tenenbaum<br />
+CogSci Conference (2025).
+
+[Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)<br />
+Lionel Wong*, **Katherine M Collins**, Lance Ying, Cedegao E Zhang, Adrian Weller, Tobias Gersternberg, Timothy O'Donnell, Alexander K Lew, Jacob D Andreas, Joshua B Tenenbaum^, Tyler Brooke-Wilson^.<br />
+CogSci Conference (2025).
+
+[Revisiting Rogers' Paradox in the Context of Human-AI Interaction](https://arxiv.org/abs/2501.10476)<br />
+**Katherine M. Collins**, Umang Bhatt, Ilia Sucholutsky.<br />
+Pre-print, under review.<br />
+
+[Building Machines that Learn and Think _with_ People](https://www.nature.com/articles/s41562-024-01991-9)<br />
 **Katherine M. Collins**, Ilia Sucholutsky*, Umang Bhatt*, Kartik Chandra*, Lionel Wong*, Mina Lee^^, Cedegao E. Zhang^^, Tan Zhi-Xuan^^, Mark Ho^^, Vikash Mansinghka^, Adrian Weller^, Joshua B. Tenenbaum^, Thomas L. Griffiths^.<br />
 Nature Human Behaviour (2024).<br />
 
