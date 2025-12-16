@@ -24,7 +24,7 @@ You can find the most up-to-date listing on [Google Scholar profile](https://sch
 
 [People use fast, flat goal-directed simulation to reason about novel problems](https://arxiv.org/abs/2510.11503)
 **Katherine M. Collins**, Cedeago Zhang*, Lionel Wong*, Mauricio Barba*, Graham Todd*, Adrian Weller, Samuel Cheyette, Thomas L. Griffiths, Joshua B. Tenenbaum.<br />
-Nature Human Behaviour (2024).<br />
+Pre-print, under review.<br />
 
 [Building Machines that Learn and Think _with_ People](https://www.nature.com/articles/s41562-024-01991-9)
 **Katherine M. Collins**, Ilia Sucholutsky*, Umang Bhatt*, Kartik Chandra*, Lionel Wong*, Mina Lee^^, Cedegao E. Zhang^^, Tan Zhi-Xuan^^, Mark Ho^^, Vikash Mansinghka^, Adrian Weller^, Joshua B. Tenenbaum^, Thomas L. Griffiths^.<br />
