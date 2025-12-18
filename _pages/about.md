@@ -23,43 +23,43 @@ Outside of research, I love to run (!) and used to run competitively for MIT.
 You can find the most up-to-date listing on [Google Scholar profile](https://scholar.google.com/citations?user=48ZphCEAAAAJ&hl=en).
 
 [People use fast, flat goal-directed simulation to reason about novel problems](https://arxiv.org/abs/2510.11503)<br />
-**Katherine M. Collins**, Cedeago Zhang*, Lionel Wong*, Mauricio Barba*, Graham Todd*, Adrian Weller, Samuel Cheyette, Thomas L. Griffiths, Joshua B. Tenenbaum.<br />
+Katherine M. Collins*, Cedeago Zhang*, Lionel Wong*, Mauricio Barba*, Graham Todd*, Adrian Weller, Samuel Cheyette, Thomas L. Griffiths, Joshua B. Tenenbaum.<br />
 Pre-print, under review.<br />
 
 [Empathy in Explanation](https://arxiv.org/abs/2507.21081)<br />
-**Katherine M. Collins**, Kartik Chandra*, Adrian Weller, Jonathan Ragan-Kelley, Joshua B Tenenbaum<br />
+Katherine M. Collins*, Kartik Chandra*, Adrian Weller, Jonathan Ragan-Kelley, Joshua B Tenenbaum<br />
 CogSci Conference (2025).
 
 [Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models](https://arxiv.org/abs/2507.12547)<br />
-Lionel Wong*, **Katherine M Collins**, Lance Ying, Cedegao E Zhang, Adrian Weller, Tobias Gersternberg, Timothy O'Donnell, Alexander K Lew, Jacob D Andreas, Joshua B Tenenbaum^, Tyler Brooke-Wilson^.<br />
+Lionel Wong*, Katherine M Collins*, Lance Ying, Cedegao E Zhang, Adrian Weller, Tobias Gersternberg, Timothy O'Donnell, Alexander K Lew, Jacob D Andreas, Joshua B Tenenbaum^, Tyler Brooke-Wilson^.<br />
 CogSci Conference (2025).
 
 [Revisiting Rogers' Paradox in the Context of Human-AI Interaction](https://arxiv.org/abs/2501.10476)<br />
-**Katherine M. Collins**, Umang Bhatt, Ilia Sucholutsky.<br />
+Katherine M. Collins, Umang Bhatt, Ilia Sucholutsky.<br />
 Pre-print, under review.<br />
 
 [Building Machines that Learn and Think _with_ People](https://www.nature.com/articles/s41562-024-01991-9)<br />
-**Katherine M. Collins**, Ilia Sucholutsky*, Umang Bhatt*, Kartik Chandra*, Lionel Wong*, Mina Lee^^, Cedegao E. Zhang^^, Tan Zhi-Xuan^^, Mark Ho^^, Vikash Mansinghka^, Adrian Weller^, Joshua B. Tenenbaum^, Thomas L. Griffiths^.<br />
+Katherine M. Collins*, Ilia Sucholutsky*, Umang Bhatt*, Kartik Chandra*, Lionel Wong*, Mina Lee^^, Cedegao E. Zhang^^, Tan Zhi-Xuan^^, Mark Ho^^, Vikash Mansinghka^, Adrian Weller^, Joshua B. Tenenbaum^, Thomas L. Griffiths^.<br />
 Nature Human Behaviour (2024).<br />
 
 [Evaluating Language Models for Mathematics through Interactions](https://www.pnas.org/doi/full/10.1073/pnas.2318124121)<br />
-**Katherine M. Collins**, Albert Q. Jiang*, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller^, Mateja Jamnik^.<br />
+Katherine M. Collins*, Albert Q. Jiang*, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller^, Mateja Jamnik^.<br />
 PNAS (2024).<br />
 [CheckMate Interactive Eval Platform](https://github.com/collinskatie/checkmate) [MathConverse Data](https://github.com/collinskatie/checkmate/tree/main/data)
 
 [Human Uncertainty in Concept-Based AI Systems](https://arxiv.org/abs/2303.12872)<br />
-**Katherine M. Collins**, Matthew Barker^^, Mateo Espinosa Zarlenga^^, Naveen Raman**, Umang Bhatt, Mateja Jamnik, Ilia
+Katherine M. Collins, Matthew Barker^^, Mateo Espinosa Zarlenga^^, Naveen Raman**, Umang Bhatt, Mateja Jamnik, Ilia
 Sucholutsky, Adrian Weller, Krishnamurthy (Dj) Dvijotham.<br />
 AIES (2023).<br />
 [CUB-S Data](https://github.com/collinskatie/cub-s) [Project Page](https://sites.google.com/view/human-concept-uncertainty?usp=sharing)
 
 [Eliciting and learning with soft labels from every annotator](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=48ZphCEAAAAJ&sortby=pubdate&citation_for_view=48ZphCEAAAAJ:eQOLeE2rZwMC)<br />
-**Katherine M Collins**, Umang Bhatt*, Adrian Weller. <br />
+Katherine M Collins*, Umang Bhatt*, Adrian Weller. <br />
 AAAI HCOMP (2022). <br />
 [Code and Data](https://github.com/cambridge-mlg/cifar-10s) [Project Page](https://sites.google.com/view/eliciting-individ-soft-labels) 
 
 [Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks](https://arxiv.org/pdf/2205.05718.pdf)<br />
-**Katherine M. Collins**, Lionel Wong*, Jiahai Feng, Megan Wei, Joshua B. Tenenbaum. <br />
+Katherine M. Collins*, Lionel Wong*, Jiahai Feng, Megan Wei, Joshua B. Tenenbaum. <br />
 CogSci (2022). Invited Talk. Awarded Travel Grant for Paper. <br />
 [Code and Data](https://github.com/collinskatie/structured_flexible_and_robust) [Project Page](https://sites.google.com/view/structured-flexible-and-robust/home) [Alan Turing Institute Talk](https://www.youtube.com/watch?v=1RgFz_Yzskk&list=PLuD_SqLtxSdULrQ37je1jaAe7pvlDwCrf&index=2)
 
